@@ -1,0 +1,9 @@
+{
+	"name": "jsonassessme",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "40fee56d-0cd7-45d2-8897-8e6757eed7c0",
+		"tenantId": "2800c0a0-70e9-49be-8733-faeaa6aced99"
+	}
+}
